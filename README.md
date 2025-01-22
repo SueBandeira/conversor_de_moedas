@@ -9,7 +9,7 @@ Este é um aplicativo de conversão de moedas desenvolvido em Java para estudos 
 ## Tecnologias Utilizadas
 
 - Java
-- 
+- API ExchangeRate
 
 ## Como Executar o Projeto
 
